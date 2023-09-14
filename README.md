@@ -1,1 +1,1 @@
-# Movie-Recommendation-using-Restricted-Boltzman-Machines
+# Movie Recommendation using Restricted Boltzman Machines
